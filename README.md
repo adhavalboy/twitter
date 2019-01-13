@@ -22,7 +22,7 @@ google-spreadsheet, pdf and xml formats.
 -Once the user clicks download button (after choosing option) all followers of the specified user should be downloaded.
 
 # Demo link
-  [http://twitter.alampatawebsolution.a2hosted.com][df1]
+  [Demo](http://twitter.alampatawebsolution.a2hosted.com)
 
 # Links to libraries
 - php library: https://github.com/abraham/twitteroauth
